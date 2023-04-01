@@ -31,6 +31,19 @@ square footage.
 Scikit-learn.
 - Developed my skills in feature engineering, model selection, and evaluation.
 
+The 'Sentiment Analysis' directory contains a project where I developed the 
+following skills:
+
+- Text preprocessing and cleaning techniques
+- Feature extraction using bag-of-words and word embeddings
+- Supervised machine learning algorithms for classification
+- Evaluation metrics for sentiment analysis such as accuracy, precision, 
+recall, and F1-score
+- Techniques for handling imbalanced datasets
+- Hyperparameter tuning for machine learning models
+- Working with natural language processing (NLP) libraries such as NLTK and 
+spaCy
+
 Overall, this course and these exercises provided a solid foundation in 
 machine learning and data analysis, and helped me to develop practical skills 
 that I can apply in real-world projects.
